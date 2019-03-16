@@ -1,0 +1,21 @@
+{
+  “app”：{
+    “version”：“6.1.0-2010000000-ianmacd”，
+    “versionCode”：“2010000000”，
+    “link”：“https://github.com/ianmacd/MagiskBuilds/raw/master/MagiskManager-v6.1.0-2010000000-ianmacd.apk”
+  }，
+  “magisk”：{
+    “version”：“18.1-2010000000-ianmacd”，
+    “versionCode”：“2010000000”，
+    “link”：“https://github.com/ianmacd/MagiskBuilds/raw/master/Magisk-v18.1-2010000000-ianmacd.zip”，
+    “note”：“https://forum.xda-developers.com/showthread.php?t=3521901”，
+    “md5”：“a51a99a5dce5344a78b952ab60dfba8f”
+  }，
+  “uninstaller”：{
+    “link”：“https://github.com/ianmacd/MagiskBuilds/raw/master/Magisk-uninstaller-v18.1-2010000000-ianmacd.zip”
+  }，
+  “snet”：{
+    “versionCode”：“12”，
+    “link”：“https://github.com/ianmacd/MagiskBuilds/raw/master/snet.apk”
+  }
+}
